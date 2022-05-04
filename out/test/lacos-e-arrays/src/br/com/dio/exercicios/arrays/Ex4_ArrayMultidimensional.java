@@ -6,7 +6,7 @@ import java.util.Random;
 Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9.
 */
 public class Ex4_ArrayMultidimensional {
-//    public static void main(String[] args) {
+    public static void main(String[] args) {
 //        Random random = new Random();
 //
 //        int[][] M = new int[4][4];
@@ -24,8 +24,13 @@ public class Ex4_ArrayMultidimensional {
 //            }
 //            System.out.println();
 //        }
-//
-//    }
+        int num = 5, count = 1;
+        while(count <= 3) {
+            ++count;
+            num += count;
+        }
+        System.out.println(num);
+    }
 
 
 }
