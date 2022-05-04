@@ -27,4 +27,22 @@ public class Ex1_NomeEIdade {
 //
 //    }
 
+    public static void main(String[] args) {
+        String nome;
+        int idade;
+
+        Scanner scanner = new Scanner(System.in);
+
+        while(true) {
+            System.out.println("Nome: ");
+            nome = scanner.next();
+
+            if(nome.equals("0")) break;
+
+            System.out.println("Idade: ");
+            idade = scanner.nextInt();
+
+        }
+        System.out.println("Programa continua.....");
+    }
 }

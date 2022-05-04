@@ -2,8 +2,10 @@
 ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA
 </h1>
 
-<p>Resolução dos exercícios propostos: <strong>ESTRUTURAS DE REPETIÇÃO E ARRAYS NA LINGUAGEM JAVA</strong>.
-Curso este que tive a honra de co-criar com a plataforma de cursos online <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+# Totais Creditos:
+- Para a Professora Camila
+- Linkedin da professora [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+- Github da professora [cami-la](https://github.com/cami-la).
 
 <h2>
 🛑 Pré-requistos
@@ -61,7 +63,7 @@ Ao assistir este curso, Dev será capaz de entender na prática como trabalhar c
 <h3 align="center"><em>📝 WHILE</em></h3>
 
 
-<strong>🔸Nome e Idade:</strong> Faça um programa que leia conjuntos de dois valores, o primeiro representando a matrícula do aluno e o segundo representando a sua altura em centímetros. (Pare inserindo o valor 0 no campo nome)<br>
+<strong>🔸Nome e Idade:</strong> Faça um programa que leia conjuntos de dois valores, o primeiro representando o nome do aluno e o segundo representando a sua idade. (Pare o programa inserindo o valor 0 no campo nome)<br>
 
 <strong>🔸Nota: </strong> Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
@@ -70,7 +72,7 @@ Ao assistir este curso, Dev será capaz de entender na prática como trabalhar c
 
 <strong>🔸Maior e Média: </strong> Faça um programa que leia 5 números e informe o maior número e a média desses números.<br>
 
-<strong>🔸Par e Ímpar: </strong> Faça um programa que peça N números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.<br>
+<strong>🔸Par e Ímpar: </strong> Faça um programa que peça N números inteiros. Calcule e mostre a quantidade de números pares e a quantidade de números impares.<br>
 
 <h3 align="center"><em>📝 FOR</em></h3>
 
@@ -128,21 +130,4 @@ Ao final, mostre os números e seus sucessores.<br>
 🔗 https://blog.grancursosonline.com.br/java-operadores-de-incremento-e-decremento/<br>
 🔗 http://www.facom.ufu.br/~bacala/POO/04%20-%20Arrays%20em%20Java.pdf<br>
 🔗 http://www.inf.ufsc.br/~frank.siqueira/INE5404/7.Arrays.pdf<br>
-	
-	
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
