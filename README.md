@@ -2,8 +2,10 @@
 ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA
 </h1>
 
-<p>Resolução dos exercícios propostos: <strong>ESTRUTURAS DE REPETIÇÃO E ARRAYS NA LINGUAGEM JAVA</strong>.
-Curso este que tive a honra de co-criar com a plataforma de cursos online <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+# Totais Creditos:
+- Para a Professora Camila
+- Linkedin da professora [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+- Github da professora [cami-la](https://github.com/cami-la).
 
 <h2>
 🛑 Pré-requistos
@@ -128,21 +130,4 @@ Ao final, mostre os números e seus sucessores.<br>
 🔗 https://blog.grancursosonline.com.br/java-operadores-de-incremento-e-decremento/<br>
 🔗 http://www.facom.ufu.br/~bacala/POO/04%20-%20Arrays%20em%20Java.pdf<br>
 🔗 http://www.inf.ufsc.br/~frank.siqueira/INE5404/7.Arrays.pdf<br>
-	
-	
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
