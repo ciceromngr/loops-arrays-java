@@ -7,9 +7,6 @@ ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA
 - Linkedin da professora [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 - Github da professora [cami-la](https://github.com/cami-la).
 
-<p>Resolução dos exercícios propostos: <strong>ESTRUTURAS DE REPETIÇÃO E ARRAYS NA LINGUAGEM JAVA</strong>.
-Curso este que tive a honra de co-criar com a plataforma de cursos online <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
-
 <h2>
 🛑 Pré-requistos
 </h2>
