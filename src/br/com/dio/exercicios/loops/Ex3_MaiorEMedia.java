@@ -53,7 +53,7 @@ e a média desses números.
             soma += numero;
 
             if(numero > maior) maior = numero;
-            count += 1;
+            count++;
         } while(count < 5);
 
         System.out.println("Maior: " + maior);

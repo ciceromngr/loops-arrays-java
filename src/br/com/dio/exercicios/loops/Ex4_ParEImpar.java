@@ -32,4 +32,28 @@ public class Ex4_ParEImpar {
 //        System.out.println("Quantidade Par: " + quantPares);
 //        System.out.println("Quantidade Ímpar: " + quantImpares);
 //    }
+
+    /*
+Faça um programa que peça N números inteiros,
+calcule e mostre a quantidade de números pares
+e a quantidade de números impares.
+*/
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int numero = 0;
+        int quantPares = 0, quantImpares = 0;
+
+        System.out.println("Digite N Numeros");
+        numero = scanner.nextInt();
+
+        for (int i = 0; i < numero; i++) {
+            if (i % 2 == 0 ) quantPares++;
+            else quantImpares++;
+        }
+
+        System.out.println("Quantidade Par: " + quantPares);
+        System.out.println("Quantidade Ímpar: " + quantImpares);
+    }
 }
