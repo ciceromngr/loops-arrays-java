@@ -55,8 +55,4 @@ public static void main(String[] args) {
     }
 
     }
-
-    public static void operacao(int numero, String operacao) {
-
-    }
 }
